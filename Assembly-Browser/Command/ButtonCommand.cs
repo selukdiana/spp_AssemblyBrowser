@@ -23,7 +23,7 @@ namespace Assembly_Browser
         {
             return true;
         }
-        //само выполнение команды
+        //само выполнение команды 
         public void Execute(object parameter)
         {
             _buttonViewModel.OnExecute();
